@@ -1,6 +1,11 @@
-- 👋 Hi, I’m @amol64546
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amol
+============================================================================================================================
 
-<!---
-amol64546/amol64546 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Website builder
+---------------
+
+I am technology enthusiast wanting my footprint in good projects in open source universe.
+
+*   ✉️  You can contact me at [amol64546@gmail.com](mailto:amol64546@gmail.com)
+*   🧠  I'm learning Spring Boot currently now
+*   ⚡  I'm secretly Mechanical Enginner, but don't tell anyone.
