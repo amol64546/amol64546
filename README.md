@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developer
 ---------------
 
-I am technology enthusiast wanting my footprint in good projects in open source universe.
+I am technology enthusiast wants my footprint in good projects in open source universe.
 
 *   ✉️  You can contact me at [amol64546@gmail.com](mailto:amol64546@gmail.com)
 *   🧠  I'm currently learning Spring Boot
