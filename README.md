@@ -6,4 +6,4 @@ Backend Developer + Learning Frontend
 
 I am technology enthusiast want my footprint in good projects in open source universe.
 
-*   ✉️  You can contact me at [amol64546@gmail.com](mailto:amol64546@gmail.com)
+*   ✉️  [amol64546@gmail.com](mailto:amol64546@gmail.com)
